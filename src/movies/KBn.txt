@@ -1,0 +1,9 @@
+Joseph, Issac H.W.|Katamsi, Amaroso|False|0
+McVey, Ismay|Laino, Robert|True|7
+Badesha, Sarwan|Blanca, Carla|True|9
+Onzon, Amélie|le Bris, Patrice|True|7
+Short, Jay (II)|Taylor, Ryan (XXVII)|True|3
+Hudson, Michael (XXVIII)|Gonin, André|True|5
+Itô, Kôichi (II)|Lee, Woojin (II)|True|9
+Noche, La|Whittle, Viviene|True|10
+Cruz, Alexandra (I)|Cruz, Alexandra (I)|True|0
